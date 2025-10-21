@@ -1,0 +1,11 @@
+FirstName,LastName,Phone,Email,DateOfBirth,EmploymentStatus,OnDuty,Opener,Closer,Wage,Position
+John,Doe,15551234567,john.doe@email.com,1989-03-14,Full-Time,1,1,0,22.75,Manager
+Sarah,Nguyen,15557654321,sarah.nguyen@email.com,1993-11-02,Part-Time,0,0,1,18.5,Clerk
+David,Martinez,15559871234,david.martinez@email.com,1985-07-22,Full-Time,1,1,0,21.25,Supervisor
+Emily,Clark,15551239876,emily.clark@email.com,1998-05-09,Seasonal,1,0,0,15.0,Assistant
+Michael,Brown,15550987654,michael.brown@email.com,1990-02-28,Full-Time,0,0,1,23.1,Manager
+Olivia,Lopez,15552349871,olivia.lopez@email.com,1995-09-17,Full-Time,1,0,0,19.85,Technician
+Ethan,Williams,15557659812,ethan.williams@email.com,2000-01-13,Part-Time,0,1,0,16.4,Clerk
+Ava,Johnson,15554328765,ava.johnson@email.com,1987-12-30,Full-Time,1,0,1,24.0,Supervisor
+Noah,Kim,15553459876,noah.kim@email.com,1992-06-05,Full-Time,0,0,1,22.1,Technician
+Sophia,Garcia,15559876543,sophia.garcia@email.com,1999-10-23,Part-Time,1,1,0,17.75,Assistant

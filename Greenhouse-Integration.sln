@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36603.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{C9674DCB-5085-4A16-B785-4C70DD1589BD}") = "Greenhouse-Integration", "Greenhouse-Integration\Greenhouse-Integration.dtproj", "{5B602101-E622-EBA3-3EFE-8225A8140010}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Default = Debug|Default
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5B602101-E622-EBA3-3EFE-8225A8140010}.Debug|Default.ActiveCfg = Debug
+		{5B602101-E622-EBA3-3EFE-8225A8140010}.Debug|Default.Build.0 = Debug
+		{5B602101-E622-EBA3-3EFE-8225A8140010}.Development|Default.ActiveCfg = Development
+		{5B602101-E622-EBA3-3EFE-8225A8140010}.Development|Default.Build.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {961C2D01-280E-425B-81BE-A0E7AF07EB8D}
+	EndGlobalSection
+EndGlobal

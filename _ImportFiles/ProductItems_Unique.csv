@@ -1,0 +1,21 @@
+ProductName,Category,OrderCost,PurchasePrice,QuantityInStock,Perishable,InStock,ClearanceItem,SeasonalItem
+Rainforest Fern,Plant,4.25,7.99,34,1,1,0,0
+Ceramic Water Pot,Decor,12.5,19.99,15,0,1,0,0
+Solar Bloom Light,Accessory,9.75,17.49,28,0,1,0,1
+Compost Enricher,Fertilizer,6.4,11.5,42,0,1,0,0
+Mini Succulent Set,Plant,7.1,14.99,20,1,1,0,0
+Heavy-Duty Trowel,Tool,5.2,10.99,13,0,1,0,0
+Root Growth Booster,Fertilizer,4.6,9.5,36,0,1,0,0
+Hanging Basket Hook,Accessory,2.4,5.49,51,0,1,0,0
+Garden Wind Spinner,Decor,10.25,21.99,17,0,1,0,1
+Cactus Soil Blend,Fertilizer,5.0,9.25,48,0,1,0,0
+FrostGuard Plant Cover,Accessory,8.5,15.99,12,0,1,0,1
+Rose Trellis Stand,Decor,14.1,24.99,10,0,1,0,0
+Seed Starting Tray,Accessory,3.1,6.49,33,0,1,0,0
+Hummingbird Feeder,Accessory,6.75,12.99,18,0,1,0,1
+Organic Tomato Feed,Fertilizer,7.3,13.99,22,0,1,0,0
+Bamboo Rake,Tool,8.25,15.49,9,0,1,0,0
+Air Plant Globe,Decor,5.8,11.99,25,1,1,0,1
+Wildflower Mix Seeds,Plant,3.25,7.49,60,1,1,0,1
+Herbal Mist Spray,Accessory,4.1,8.79,37,0,1,0,0
+Stone Garden Marker Set,Decor,6.0,12.49,14,0,1,0,0
