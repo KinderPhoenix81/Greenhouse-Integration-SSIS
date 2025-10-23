@@ -1,0 +1,19 @@
+========================================
+Greenhouse Management - Import Log
+========================================
+------------------------------
+Import Details
+------------------------------
+Employees Imported: 10
+Products Imported: 20
+
+----------------------------------------
+Execution Details
+----------------------------------------
+Opeartion Duration: 6.593 Seconds
+Operation Started: 14:17:44
+Operation Ended: 14:17:51
+Opeartion Executed By: PERSONAL-DESKTO\Alex
+Package: TextFileImport ran on PERSONAL-DESKTO
+Task Name: Print Summary Log
+Task ID: {9879BB13-4861-4FBF-8664-324AC7455CD5}
