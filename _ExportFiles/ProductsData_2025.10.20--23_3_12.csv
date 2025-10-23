@@ -1,0 +1,90 @@
+1,Petunia Mix Flats,Annual,2.50,4.99,120,True,True,True,True
+2,Marigold Yellow Sprays,Annual,1.80,3.99,95,True,True,False,True
+3,Impatiens Pink Blossoms,Annual,2.25,4.50,80,True,True,False,True
+4,Begonia Red Charm,Annual,2.10,4.25,100,True,True,True,True
+5,Coleus Rainbow Foliage,Annual,2.75,5.25,0,True,False,False,True
+6,Geranium Scarlet Potted,Annual,3.10,6.00,60,True,True,False,True
+7,Zinnia Bright Mix,Annual,1.90,3.95,110,True,True,False,True
+8,Cosmos Sensation Variety,Annual,1.85,3.75,85,True,True,True,True
+9,Ageratum Blue Clouds,Annual,2.00,4.10,95,True,True,False,True
+10,Snapdragon Dwarf Mix,Annual,2.40,4.75,0,True,False,False,True
+11,Canterbury Bells Blue,Biennial,2.10,4.50,95,True,True,False,True
+12,Hollyhock Crimson Towers,Biennial,2.35,4.80,80,True,True,False,True
+13,Foxglove Speckled Pink,Biennial,2.50,5.00,85,True,True,True,True
+14,Sweet William Mixed Colors,Biennial,1.90,3.95,120,True,True,False,True
+15,Forget-Me-Not Alpine Blue,Biennial,2.00,4.10,0,True,False,False,True
+16,Wallflower Sunset Shades,Biennial,2.15,4.40,75,True,True,False,True
+17,Angelica Archangelica,Biennial,2.60,5.25,60,True,True,True,True
+18,Teasel Wild Form,Biennial,1.80,3.70,90,True,True,False,True
+19,Evening Primrose Yellow,Biennial,2.05,4.25,110,True,True,False,True
+20,Lunaria (Honesty Plant),Biennial,1.95,3.95,0,True,False,False,True
+21,Hosta Blue Angel,Perennial,3.20,6.50,85,True,True,False,True
+22,Daylily Stella de Oro,Perennial,2.95,5.80,100,True,True,False,True
+23,Coneflower Purple Echinacea,Perennial,3.10,6.00,90,True,True,True,True
+24,Lavender Munstead,Perennial,2.85,5.75,0,True,False,False,True
+25,Peony Sarah Bernhardt,Perennial,3.50,7.25,60,True,True,False,True
+26,Astilbe Fanal Red,Perennial,2.70,5.25,80,True,True,True,True
+27,Shasta Daisy Alaska,Perennial,2.40,4.95,110,True,True,False,True
+28,Sedum Autumn Joy,Perennial,3.00,6.10,95,True,True,False,True
+29,Coral Bells Palace Purple,Perennial,2.60,5.40,0,True,False,False,True
+30,Russian Sage Perovskia,Perennial,2.90,5.85,120,True,True,False,True
+31,Basil Genovese,Herbs,1.80,3.75,130,True,True,False,True
+32,Thyme English,Herbs,1.95,3.95,100,True,True,False,True
+33,Oregano Greek,Herbs,2.10,4.25,85,True,True,True,True
+34,Parsley Italian Flat Leaf,Herbs,1.70,3.60,0,True,False,False,True
+35,Rosemary Upright,Herbs,2.40,4.90,75,True,True,False,True
+36,Cilantro (Coriander),Herbs,1.85,3.80,95,True,True,True,True
+37,Mint Peppermint,Herbs,2.00,4.15,110,True,True,False,True
+38,Chives Common,Herbs,1.65,3.50,140,True,True,False,True
+39,Sage Broadleaf,Herbs,2.20,4.40,0,True,False,False,True
+40,Lemon Balm,Herbs,1.90,3.85,90,True,True,False,True
+41,Garden Hand Trowel,Tools,3.20,6.50,100,False,True,False,False
+42,Pruning Shears Deluxe,Tools,5.50,10.95,75,False,True,False,False
+43,Stainless Steel Garden Fork,Tools,4.10,8.50,60,False,True,True,False
+44,Heavy Duty Spade,Tools,6.25,12.50,85,False,True,False,False
+45,Ergonomic Hand Weeder,Tools,2.95,6.00,0,False,False,False,False
+46,Adjustable Garden Rake,Tools,3.85,7.95,110,False,True,False,False
+47,Planting Dibber with Depth Gauge,Tools,2.50,5.20,70,False,True,False,False
+48,Garden Kneeling Pad,Tools,1.80,4.00,140,False,True,True,False
+49,Watering Can û 2 Gallon,Tools,4.60,9.25,0,False,False,False,False
+50,Telescopic Lopper,Tools,5.75,11.50,80,False,True,False,False
+51,Compost Thermometer,Tools,3.10,6.30,95,False,True,False,False
+52,Hand Cultivator 3-Prong,Tools,2.40,5.00,120,False,True,False,False
+53,Garden Hose Nozzle Multi-Spray,Tools,2.90,6.00,100,False,True,True,False
+54,Soil PH Meter,Tools,3.75,7.50,0,False,False,False,False
+55,Seed Spreader Hand Crank,Tools,4.20,8.60,85,False,True,False,False
+56,Organic Potting Soil 20lb,Soil,4.25,7.99,120,False,True,False,False
+57,Seed Starting Mix 10lb,Soil,3.10,6.25,95,False,True,False,False
+58,Composted Manure Blend,Soil,2.75,5.60,80,False,True,True,False
+59,Cactus & Succulent Mix 15lb,Soil,4.90,9.50,0,False,False,False,False
+60,Raised Bed Garden Soil 30lb,Soil,5.25,10.25,100,False,True,False,False
+61,Topsoil Premium Blend 25lb,Soil,3.85,7.50,140,False,True,False,False
+62,Moisture Control Potting Mix,Soil,4.60,9.20,90,False,True,True,False
+63,Perlite Soil Amendment 5lb,Soil,2.40,4.95,110,False,True,False,False
+64,Peat Moss Bale 20lb,Soil,3.60,7.25,0,False,False,False,False
+65,Winter Fertilizer Soil Additive,Soil,5.10,10.50,60,False,True,False,True
+66,Terracotta Pot Small,Pottery,1.20,2.95,150,False,True,False,False
+67,Terracotta Pot Large,Pottery,2.75,5.50,100,False,True,False,False
+68,Ceramic Planter Blue Glaze,Pottery,4.10,8.25,65,False,True,True,False
+69,Ceramic Planter Green Glaze,Pottery,4.25,8.50,70,False,True,False,False
+70,Hanging Basket Clay 12in,Pottery,3.50,7.00,0,False,False,False,False
+71,Decorative Urn Stone Finish,Pottery,5.90,12.00,55,False,True,False,False
+72,Rectangular Window Box Terracotta,Pottery,2.60,5.25,95,False,True,False,False
+73,Self-Watering Planter 10in,Pottery,3.75,7.75,80,False,True,True,False
+74,Plastic Clay-Look Pot 8in,Pottery,1.85,3.90,120,False,True,False,False
+75,Decorative Ceramic Bowl Planter,Pottery,4.50,9.10,0,False,False,False,False
+76,Terracotta Saucer 10in,Pottery,1.40,3.00,140,False,True,False,False
+77,Indoor Orchid Pot White,Pottery,3.20,6.60,90,False,True,False,False
+78,Resin Whiskey Barrel Planter,Pottery,4.80,9.75,75,False,True,True,False
+79,Hanging Basket Wire with Liner,Pottery,2.50,5.10,0,False,False,False,False
+80,Stackable Herb Planter Tower,Pottery,3.90,8.00,100,False,True,False,False
+81,Bonemeal Organic 5lb,Additives,3.20,6.50,90,False,True,False,True
+82,Blood Meal Nitrogen Boost 3lb,Additives,2.95,5.80,110,False,True,False,True
+83,Compost Tea Concentrate 1qt,Additives,4.10,8.25,75,False,True,True,True
+84,Lime Garden Sweetener 10lb,Additives,2.40,4.90,0,False,False,False,False
+85,Epsom Salt Garden Grade 5lb,Additives,2.70,5.40,85,False,True,False,True
+86,Organic Worm Castings 10lb,Additives,3.85,7.75,100,False,True,True,True
+87,Rock Phosphate Powder 5lb,Additives,2.55,5.10,95,False,True,False,True
+88,Sulfur Soil Acidifier 5lb,Additives,2.20,4.50,120,False,True,False,True
+89,Seaweed Extract Liquid 1qt,Additives,3.50,7.10,0,False,False,False,False
+90,Biochar Soil Amendment 10lb,Additives,4.25,8.75,60,False,True,False,True
