@@ -12,10 +12,10 @@ Invoices Exported: 16
 ----------------------------------------
 File Outputs
 ----------------------------------------
-- C:\Users\Alex\Documents\GreenhouseIntegrationProject-AlexAllen\_ExportFiles\EmployeesData_2025.10.20--23_3_12.csv
-- C:\Users\Alex\Documents\GreenhouseIntegrationProject-AlexAllen\_ExportFiles\ProductsData_2025.10.20--23_3_12.csv
-- C:\Users\Alex\Documents\GreenhouseIntegrationProject-AlexAllen\_ExportFiles\OrdersData_2025.10.20--23_3_12.csv
-- C:\Users\Alex\Documents\GreenhouseIntegrationProject-AlexAllen\_ExportFiles\InvoicesData_2025.10.20--23_3_12.csv
+- C:\Users\BuildUser\Documents\GreenhouseIntegrationProject-AlexAllen\_ExportFiles\EmployeesData_2025.10.20--23_3_12.csv
+- C:\Users\BuildUser\Documents\GreenhouseIntegrationProject-AlexAllen\_ExportFiles\ProductsData_2025.10.20--23_3_12.csv
+- C:\Users\BuildUser\Documents\GreenhouseIntegrationProject-AlexAllen\_ExportFiles\OrdersData_2025.10.20--23_3_12.csv
+- C:\Users\BuildUser\Documents\GreenhouseIntegrationProject-AlexAllen\_ExportFiles\InvoicesData_2025.10.20--23_3_12.csv
 
 ----------------------------------------
 Execution Details
@@ -23,7 +23,7 @@ Execution Details
 Opeartion Duration: 6.638 Seconds
 Operation Started: 23:03:05
 Operation Ended: 23:03:12
-Opeartion Executed By: PERSONAL-DESKTO\Alex
-Package: TextFileExport ran on PERSONAL-DESKTO
+Opeartion Executed By: BuildUser
+Package: TextFileExport ran on BuildDesktop
 Task Name: Print Summary Log
 Task ID: {3CFF5514-E3B3-4BC1-ACCB-216491115D1B}
