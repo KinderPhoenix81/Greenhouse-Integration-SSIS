@@ -16,7 +16,7 @@
       <SSIS:Property
         SSIS:Name="Sensitive">0</SSIS:Property>
       <SSIS:Property
-        SSIS:Name="Value">C:\Users\&lt;YourName&gt;\Documents\GreenhouseIntegrationProject-AlexAllen\</SSIS:Property>
+        SSIS:Name="Value">C:\Users\&lt;YourName&gt;\Documents\Greenhouse-Intergration-SSIS\</SSIS:Property>
       <SSIS:Property
         SSIS:Name="DataType">18</SSIS:Property>
     </SSIS:Properties>
